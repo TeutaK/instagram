@@ -1,3 +1,21 @@
+
+| Name          |      Description      
+|---------------|----------------------
+| Name | The name of the application will be used for logging and the consent screen.
+| Application Type | The type of application for which the settings are configured.
+| Client ID | Unique ID of the application.
+| Client Secrets | List of client secrets credentials to access the token endpoint.
+| Client Secrets | List of client secrets credentials to access the token endpoint.
+| Secret Types | Some string that gives the secret validator a hint what type of secret to expect (e.g. &quot;SharedSecret&quot; or &quot;X509CertificateThumbprint&quot;).
+| Secret Value | The value of the secret. This is being interpreted by the secret validator (e.g. a &quot;password&quot;-like share secret or something else that identifies a credential).
+| Hash Type | Hashing Algorithm Type. HashType will be applicable only for the SharedSecret type.
+| Expiration | A point in time, where this secret will expire.
+|Description| The description of the secret - useful for attaching some extra information to the secret.
+|Properties| Dictionary to hold any custom client-specific values as needed.
+|Key| Key
+|Value| Value
+|Description| A free text description of the application.
+
 ## Building Instagram from Scratch Using React, Tailwind CSS, Firebase (11+ Hour Tutorial Here: https://youtu.be/AKeaaa8yAAk)
 
 💰 Extended paid version here (3 hours 30 mins extra): https://gum.co/react-instagram-clone
