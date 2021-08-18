@@ -1,6 +1,6 @@
 
-| Name          |      Description      
-|---------------|----------------------
+| Name                 |Description      
+|--------------------- |:----------------------
 | Name | The name of the application will be used for logging and the consent screen.
 | Application Type | The type of application for which the settings are configured.
 | Client ID | Unique ID of the application.
